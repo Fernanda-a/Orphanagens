@@ -1,0 +1,38 @@
+Isnt easy to find mistakes on sqlite so PAY ATTENTION it praticamente dont show your errors
+
+INTEGER is a number
+
+PRIMARY KEY means that the id is the identifier of the orphanage i put
+
+AUTOINCREMENT means that it will put values automatically
+
+object.properties
+
+INSER INTO table_name (
+    keys
+    name,
+    lat,
+    lng,
+    etc
+) VALUES (
+    
+);
+
+.then is a way to tell the javascript(?) to wait until the hole line was executed
+
+if you put .then(async ) you can use just the word await to do the .until job
+
+.all has the ability of search for us all the data we have on our database
+
+SELECT * FROM table_name <- this means select all fields from the table
+if i wantend to call just the names -> SELECT name FROM table_name
+
+it will select all lines and columns
+
+even though you deleted the table items it will comeback with a different id
+
+delete all data from the table -> DELETE FROM table_name
+delete one specific item -> DELETE FROM table_name WHERE id = 'x'
+    x = any number (the id number of the thing you wanna delete)
+
+//put database on application

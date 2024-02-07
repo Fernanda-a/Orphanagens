@@ -1,0 +1,22 @@
+on back end the console.log will appear on terminal
+
+absolute way /c/nlw3/src (current past)
+relative way ../ (sair do arquivo)
+
+ls is a way to see in which past you are in
+pwd too pwd is working directory (or director)
+
+npm init -y is to ...
+
+init means initial
+
+json {is a type who means javascript object notation}
+on json you have to do the propriety with "". but you dont need to put "" in array or object, separated by , but the last one cannot have a , if you put vai dar error
+
+package-lock.json is a mapiamento of all the dependencies he installed
+
+node src/server.js is to execute the archive
+
+when i modify something on the backend i have to turm my terminal off (ctrl c) and then turn on (ctrl j)
+
+ctrl l to clean (só não deixar com um monte de linhas)

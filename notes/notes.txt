@@ -1,0 +1,120 @@
+        NOTES ABOUT THE NLW CONTENT
+
+A html tag cannot be open inside and closed outside of another html tag.
+Ex: <head> 
+     
+    <body>
+
+    </head>
+
+    </body>
+
+diretorio = pasta
+
+./ is the root (pasta raiz)
+
+html - skeletal structure
+css - roupas, maquiagem, etc.
+
+header (cabeçalho)
+
+    absolute or relative way
+
+relative ways are like this:
+./some_past/other_past/etc
+
+.svg is a type of image and its write on html 
+
+strong is to put the text in bold
+
+<main> is where you put the main stuff
+
+In CSS the last thing you put is the strongest
+
+If you put the css like an atributo in the html that will be the strongest 
+
+To put the style on the internal archive will make it stronger than the ones on the external archive
+
+If I put the style and then put the external link, the link will be the strongest. 
+
+The strongest form is putting important like this:
+ 
+ body {
+     color: cyan important;
+ }
+
+    Selectors
+
+# = id
+. = class
+
+function name(233, 55, 55); 
+six numbers 345689.
+
+the last one is a short way to do the upside part
+
+    body, input, button, textarea {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 1;
+        font-family: 'Nunito', sans-serif;
+
+        font: 400 18px/1 'Nunito', sans-serif;
+    }
+
+the rem or em will always look for the antecedent tag.
+if you put body {
+   font-size: 1.8em;
+}
+the tag will look for their's dad to see the patern font
+
+but the rem will look for the root element!
+
+i stoped on 1:48:00
+
+when you put flex (i think its display) you transform everything in inline 
+
+the next tag only can aling everything if the last item was a display flex
+
+3 values on margin are up; both sides and bottom
+
+to apply one more class you just put a space like this:
+    <div class="location animate-up">
+
+"main h1" is stronger than "h1"
+
+try to put the css in the order of the html
+
+to get out off a past you just need to put .. like this:
+../
+  
+flex 1 means that the
+
+one page has a display: flex; if i put a flex: 1; in a child of his that means he will adjust for all the space he has on the page
+
+do the validation on front end before the person send
+
+             discover the if ternario
+function validate(needsLatAndLng) {
+    
+    //validate if lat and lng are filled
+    const needsLatAndLng = true
+    if(needsLatAndLng) {
+        event.preventDefault()
+        alert("Please select a place on map")
+    }
+    }
+}
+document.querySelector('lat, lng')
+    //validady if lat and lng are field
+    pegue o campo e verifique o value é vazio, se tiver você usa o event prevent default
+    if
+    event.preventDefault() 
+    alert('Select a point on the map')
+
+    if(needsLatAndLng) {
+        do the challenge
+        a boolean(?)
+page 52 tambem
+
+ver o video sobre responsividade da rocket

@@ -1,0 +1,48 @@
+regra de negocio é a preparação dos pedidos que é realizado pelo back-end
+    that analogy where the front end is the client and the back end is the kichen and stuff
+
+on the back end you verify. Exemple: im doing a cadastro and im putting the cpf. is the back end job to verify if its real 
+
+the back end manipula all data like cadastro, the validation, etc
+
+node.js is the responsible for "rodar" javascript na sua maquina.
+
+a servidor is a computer somewhere in the world and inside of it there is our code using some inteligencia who will answer our orders
+
+library means someone made something before and we used it
+
+mistakes are normal here
+
+now i only can acess if i create routes
+
+__dirname shows our current paste
+
++ can add other text to the first one or do math on the js
+
+static files and dynamic files
+
+    static do not have dynamic change
+        all the directories in public are static
+
+    js is dynamic
+    template engine can transform html in dynamic
+
+http verbs (GET and POST)
+    everytime i put my url on browser and send im doing a type GET request 
+
+    POST everytime i want to save something of my application (on forms)
+
+  // doing this the express will create all the routes that i need from public (line 9)
+
+    template engine 
+
+        {{#each orphanages }}
+        <p> flskdfj </p>
+        {{/each}} 
+    
+    this thing will make the p repeat depending on the object
+    "for each orphanage copy this"
+    to catch just one of them you put {{this}}
+    esse this is a reference and them you call the atributos(?) with . : {{this.lat}}
+
+if you don't know what the data is put a console.log 

@@ -1,0 +1,111 @@
+Java and Javascript are not the same thing
+
+i can modify the html with javascript
+
+to create an object you do like this:
+
+{ color: "red" } chaves, property and value
+
+when i put "" in a text it turns into a string
+
+a object needs to be placed somewhere. = will place the object in a variable. you access properties inside of a object putting a . 
+
+if is a conditional
+
+not all properties will recive values, there are properties who are a little bit differenet
+
+everytime you see {} its a block of code or a object
+
+how do i execute a funcionality?
+i need to open and close parenthesis to execute this funcionality
+
+if and else. you'll use else if it isn't.
+
+var is a way to put keywords. you use let or constant to put keywords on your var.
+
+const means that my variable won't change.
+let and var can change
+
+funcionality put arguments inside this parenthesis
+
+more than one argument we put a , to separate them
+
+data types:
+funcionality()
+string ""
+number 01
+object {}
+boolean true or false
+array [] is a list of values and we start from 0. ex: 
+    const grocery = ["eggs", "milk", "sugar"] //we call this positions!
+    0: "eggs"
+    1: "milk"
+    2: "sugar"
+    grocery [1]
+     milk
+
+; always at the end of a struction
+
+you cannot start a struction with . you'll start with an object
+
+when the propertyand the value have the same name you can just delete the first one
+
+you need to put the object you've created like an argument in a function
+it's easier to create an object in a variable bc when you put like an argument it will be more clean
+
+arrow function is a short function without name so we write like this: () => {}
+
+o js executa de uma maneira linear
+
+the step by step will change everythings
+
+&& means if its real  (line 24)
+
+everytime i click the group get together (line 19)
+
+marker is placed in memory because its outside!
+ when i end click the group falls apart. 
+  when i click again it will rebuild itself (line)
+
+marker icon and map are the only ones who existe outside of the group but i can bring them to the group and
+
+container.appendChild you will catch the child and anex (or append) to the container
+
+== is a boolean, its a verification value
+        == means equal and != means different
+
+inside of a if verification i'll always verify if it is fake or not
+
+when a function find a return it will always stop the code execution
+
+the event will conter the information of who clicked on it
+
+tag x.parentNode is a way to call the parent of the tag
+
+we just use document. on browser
+
+.use(express.static('public')) is to inform in which folder are my static archives
+        const.use(object.statics(folder))
+
+response.sendFile(path.join(__dirname, 'views', 'index.html')) //its a way to navegate 
+
+const city = req.query.city
+retun res.render('index', { city })
+
+on the html:
+
+<span> {{ city }} </span>
+
+url /?city=Campo Grande
+
+folder pages will keep all the routes's funcutions 
+
+index(req, res) <- short way  (pages.js line 4)
+
+a moment where you can use a lit of function is when you want to agrup a code that will be used mais de uma vez 
+
+to put vars in a text you open with ` insted of '
+
+some objects have the functionality of .then() like database.sqlite
+
+if ternario no javascript
